@@ -1,0 +1,17 @@
+body {
+  background-image: url("http://hubchi.com/wp-content/uploads/2015/08/surfing2.jpg");
+font-family: 'Indie Flower','Cabin';
+  color: darkgreen;
+  font-size: larger;
+}
+
+
+h1,h2,h3{
+  text-align: center;
+}
+
+.displayed{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
